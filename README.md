@@ -1,4 +1,6 @@
 # metaaiml.github.io
+Crated by Srivatsav Bendi- August 2020
+
 Meta AI is a Machine Learning stock prediction modeling website that uses a polynomial regression, allowing investors to easily predict small changes in the market. 
 
 Inspiration- 
