@@ -4,6 +4,8 @@ Meta AI is a Machine Learning stock prediction modeling website that uses a poly
 
 [Visit Meta AI ML](https://metaaiml.github.io/)
 
+[Hackathon Submission](https://devpost.com/software/meta-ai)
+
 ### Key Skills and Tools
 * Machine Learning
 * Polynomial Regression
