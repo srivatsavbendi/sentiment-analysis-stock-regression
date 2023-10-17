@@ -1,4 +1,4 @@
-# Meta AI ML
+# Meta AI
 
 Meta AI is a Machine Learning stock prediction modeling website that uses a polynomial regression, allowing investors to easily predict small changes in the market.
 
